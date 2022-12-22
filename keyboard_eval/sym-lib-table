@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/libraries/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "QBLP677R-RGB")(type "Legacy")(uri "${KIPRJMOD}/libraries/custom_library/QBLP677R-RGB.lib")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "Legacy")(uri "${KIPRJMOD}/libraries/SamacSys_Parts.lib")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/libraries/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+)
