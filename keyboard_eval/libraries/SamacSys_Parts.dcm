@@ -24,4 +24,10 @@ K
 F https://www.mouser.com/datasheet/2/198/31FL3731-258525.pdf
 $ENDCMP
 #
+$CMP SN74LVC1T45DBVRG4
+D Translation - Voltage Levels SNGL Bit Dual Supply Bus Transceiver
+K
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1t45
+$ENDCMP
+#
 #End Doc Library
